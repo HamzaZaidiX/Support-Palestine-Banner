@@ -199,22 +199,5 @@ Contributions to this project are welcome! If there is anything you would like t
 **If the banner's text is not readable?**    
 *Solution:* Locate the pasted HTML code and edit the CSS properties for color of text and background to improve contrast.
 
-
-# Used By
-
-- [satr14's corner](https://new.sx9.is-a.dev/)
-
-- [LGU timetable](https://www.lgutimetable.online/)
-
-- [Safouen Turki](https://safouen.me)
-
-- [Amin Boulouma](https://github.com/aminblm)
-
-- [Awesome #FreePalestine🇵🇸 Support Kit](https://github.com/aminblm/awesome-free-palestine-support-kit/tree/main)
-
-- [envio CLI](https://github.com/envio-cli/envio)
-
-- [Bixat.dev](https://bixat.dev)
-
 # License
 This project is currently licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
