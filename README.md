@@ -1,19 +1,19 @@
-[![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+[![StandWithPalestine](https://github.com/HamzaZaidiX/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/HamzaZaidiX/support-palestine-banner)
 
-# Support Palestine Banners
+# Support Palestine Banners 🇵🇸🍉❤💵
 
-Welcome to the Support Palestine Banner project! This repository contains a multitude of emblems to aid in showing support for Palestine on the web -- including website banners, ReadMe Banners and Github Badges -- that can be used by OSS projects to spread the word, support the cause, and help Palestine in this disastrous situation.
+Welcome to the **Support Palestine Banner project**! This repository contains a multitude of emblems to aid in showing support for Palestine on the web -- including **Website banners, ReadMe Banners and Github Badges** -- that can be used by **OSS projects to spread the word, support the cause, and help Palestine in this disastrous situation.**
 
 # Table of Contents
-1. [How to Use](https://github.com/Safouene1/support-palestine-banner#how-to-use)
-2. [Badges and Banners](https://github.com/Safouene1/support-palestine-banner#badges-and-banners)
-3. [Banner Components for React, NextJs 13, Vue (V2 & V3) with Tailwind](https://github.com/Safouene1/support-palestine-banner#banner-components-for-react-nextjs-13-vue-v2--v3-with-tailwind)
-4. [Website Banner Installation](https://github.com/Safouene1/support-palestine-banner#website-banner-installation)
-5. [Banner Custom Web Component](https://github.com/Safouene1/support-palestine-banner#banner-custom-web-component)
-6. [How to Contribute](https://github.com/Safouene1/support-palestine-banner#how-to-contribute)
-7. [Troubleshooting](https://github.com/Safouene1/support-palestine-banner#troubleshooting)
-8. [Used By](https://github.com/Safouene1/support-palestine-banner#used-by)
-9. [License](https://github.com/Safouene1/support-palestine-banner#license)
+1. [How to Use](https://github.com/HamzaZaidiX/support-palestine-banner#how-to-use)
+2. [Badges and Banners](https://github.com/HamzaZaidiX/support-palestine-banner#badges-and-banners)
+3. [Banner Components for React, NextJs 13, Vue (V2 & V3) with Tailwind](https://github.com/HamzaZaidiX/support-palestine-banner#banner-components-for-react-nextjs-13-vue-v2--v3-with-tailwind)
+4. [Website Banner Installation](https://github.com/HamzaZaidiX/support-palestine-banner#website-banner-installation)
+5. [Banner Custom Web Component](https://github.com/HamzaZaidiX/support-palestine-banner#banner-custom-web-component)
+6. [How to Contribute](https://github.com/HamzaZaidiX/support-palestine-banner#how-to-contribute)
+7. [Troubleshooting](https://github.com/HamzaZaidiX/support-palestine-banner#troubleshooting)
+8. [Used By](https://github.com/HamzaZaidiX/support-palestine-banner#used-by)
+9. [License](https://github.com/HamzaZaidiX/support-palestine-banner#license)
 
 # How to Use
 
@@ -34,26 +34,26 @@ Welcome to the Support Palestine Banner project! This repository contains a mult
 
 ### Badge Banner
 
-[![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](./Markdown-pages/Support.md)
+[![StandWithPalestine](https://github.com/HamzaZaidiX/support-palestine-banner/blob/master/StandWithPalestine.svg)](./Markdown-pages/Support.md)
 
 ```md
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
+[![StandWithPalestine](https://raw.githubusercontent.com/HamzaZaidiX/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/HamzaZaidiX/support-palestine-banner/Markdown-pages/Support.md)
 ```
 
 ### ReadMe Banner
 
-[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](./Markdown-pages/Support.md)
+[![ReadMeSupportPalestine](https://github.com/HamzaZaidiX/support-palestine-banner/blob/master/banner-support.svg)](./Markdown-pages/Support.md)
 
 ```md
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/HamzaZaidiX/support-palestine-banner/master/banner-support.svg)](https://github.com/HamzaZaidiX/support-palestine-banner/Markdown-pages/Support.md)
 ```
 
 ### ReadMe Banner for Projects
 
-[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-project.svg)](./Markdown-pages/Support.md)
+[![ReadMeSupportPalestine](https://github.com/HamzaZaidiX/support-palestine-banner/blob/master/banner-project.svg)](./Markdown-pages/Support.md)
 
 ```md
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/HamzaZaidiX/support-palestine-banner/master/banner-project.svg)](https://github.com/HamzaZaidiX/support-palestine-banner/Markdown-pages/Support.md)
 ```
 
 # Banner Components for React ,NextJs 13, Vue (V2 & V3) with Tailwind
@@ -79,19 +79,19 @@ These components out of the box supports
 
 If you are not using Tailwind, import this CSS file: [banner.css](React-Components/banner.css)
 
-Components can be found [here](https://github.com/Safouene1/support-palestine-banner/tree/master/React-Components)
+Components can be found [here](https://github.com/HamzaZaidiX/support-palestine-banner/tree/master/React-Components)
 
 # Website Banner Installation
 
 Use this snippet to show your support for Palestinians on the top of your website. Installing it takes minutes.
 
-![image](https://github.com/Safouene1/support-palestine-banner/assets/22036449/bfbfe6de-0e2f-4d6d-8e7e-fd47ea00ddf2)
+![image](https://github.com/HamzaZaidiX/support-palestine-banner/assets/22036449/bfbfe6de-0e2f-4d6d-8e7e-fd47ea00ddf2)
 
 ### About the Website Banner
 
 This code adds a small black banner on top of your website with Palestinian flag and support message. It links to islamic-relief's donation site but you can change the link to point to a support channel of your choice.
 
-![image](https://github.com/Safouene1/support-palestine-banner/assets/22036449/269d2610-7025-4b69-a3b1-00fbfc2a949a)
+![image](https://github.com/HamzaZaidiX/support-palestine-banner/assets/22036449/269d2610-7025-4b69-a3b1-00fbfc2a949a)
 
 ### Installation Banner
 
